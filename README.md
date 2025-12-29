@@ -1,14 +1,14 @@
 🩺 Diabetes Risk Prediction – End-to-End Machine Learning Project
 📌 Project Overview
 
-			  Diabetes is a chronic condition that often goes undetected until serious complications arise.
-        The objective of this project was to build an end-to-end machine learning pipeline that predicts the probability of diabetes using demographic, lifestyle, and clinical data.
+Diabetes is a chronic condition that often goes undetected until serious complications arise.
+The objective of this project was to build an end-to-end machine learning pipeline that predicts the probability of diabetes using demographic, lifestyle, and clinical data.
 
-        Instead of producing a strict yes/no diagnosis, the model focuses on risk prediction, which is more practical for:
+Instead of producing a strict yes/no diagnosis, the model focuses on risk prediction, which is more practical for:
 
-        early screening,
+early screening,
 
-        preventive healthcare,
+preventive healthcare,
 
 and prioritizing patients for further medical evaluation.
 
